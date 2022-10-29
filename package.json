@@ -1,0 +1,19 @@
+{
+  "name": "excelreader",
+  "version": "1.0.0",
+  "description": "My first excel handling node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Excel"
+  ],
+  "author": "Asmita Saha",
+  "license": "ISC",
+  "dependencies": {
+    "json2xl": "^1.0.5",
+    "json2xls": "^0.1.2",
+    "simple-excel-to-json": "^2.3.0"
+  }
+}
